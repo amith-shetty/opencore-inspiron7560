@@ -1,0 +1,1 @@
+# opencore-inspiron7560
